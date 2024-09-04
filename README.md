@@ -8,3 +8,5 @@
 > If you reach the answer in less number of submits you will get a higher score.
 
 > The highest score will save in each round.
+
+> If the score reach zero you will lose the game.
