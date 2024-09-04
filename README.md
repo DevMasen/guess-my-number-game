@@ -1,7 +1,7 @@
 # Guess My Number Game 🔢
 ### This game has been written with HTML, CSS and Javascript. 
 ### Main project by "Jonas Schmedtmann" from "Udemy". 
-### Run the program by live-server on `index.html`
+### Run the program with live-server on `index.html`
 #### How to play : 
 > Enter a number and submit your answer and repeat untill reach the correct answer.
 
